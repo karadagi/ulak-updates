@@ -11,21 +11,21 @@
       "localizedDescription": "A visual, flexible notes app with reminders, calendar planning, voice recordings, files, drawings, URLs, progress tracking, card covers, and photo collections.",
       "iconURL": "https://raw.githubusercontent.com/karadagi/ulak-updates/main/icon.png",
       "tintColor": "#F7D44C",
-      "version": "1.0.31",
-      "versionDate": "2026-08-24T01:53:29Z",
-      "versionDescription": "Ulak 1.0.31 — latest GitHub Actions build.",
-      "downloadURL": "https://raw.githubusercontent.com/karadagi/ulak-updates/main/Ulak.ipa?version=1.0.31",
-      "size": 736279,
-      "absoluteVersion": "1.0.31",
+      "version": "1.0.32",
+      "versionDate": "2026-08-24T02:11:35Z",
+      "versionDescription": "Ulak 1.0.32 — latest GitHub Actions build.",
+      "downloadURL": "https://raw.githubusercontent.com/karadagi/ulak-updates/main/Ulak.ipa?version=1.0.32",
+      "size": 739280,
+      "absoluteVersion": "1.0.32",
       "appID": "com.karadagi.notes",
       "versions": [
         {
-          "version": "1.0.31",
-          "date": "2026-08-24T01:53:29Z",
-          "downloadURL": "https://raw.githubusercontent.com/karadagi/ulak-updates/main/Ulak.ipa?version=1.0.31",
-          "localizedDescription": "Ulak 1.0.31 — latest GitHub Actions build.",
-          "size": 736279,
-          "absoluteVersion": "1.0.31"
+          "version": "1.0.32",
+          "date": "2026-08-24T02:11:35Z",
+          "downloadURL": "https://raw.githubusercontent.com/karadagi/ulak-updates/main/Ulak.ipa?version=1.0.32",
+          "localizedDescription": "Ulak 1.0.32 — latest GitHub Actions build.",
+          "size": 739280,
+          "absoluteVersion": "1.0.32"
         }
       ]
     }
