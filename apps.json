@@ -5,27 +5,27 @@
   "apps": [
     {
       "name": "Ulak",
-      "bundleIdentifier": "com.karadagi.notes",
+      "bundleIdentifier": "com.karadagi.ulak",
       "developerName": "İlker Karadağ",
       "subtitle": "Notes that carry what matters.",
       "localizedDescription": "A visual, flexible notes app with reminders, calendar planning, voice recordings, files, drawings, URLs, progress tracking, card covers, and photo collections.",
       "iconURL": "https://raw.githubusercontent.com/karadagi/ulak-updates/main/icon.png",
       "tintColor": "#F7D44C",
-      "version": "1.0.45",
-      "versionDate": "2026-08-24T04:43:51Z",
-      "versionDescription": "Ulak 1.0.45 — latest GitHub Actions build.",
-      "downloadURL": "https://raw.githubusercontent.com/karadagi/ulak-updates/main/Ulak.ipa?version=1.0.45",
-      "size": 1184135,
-      "absoluteVersion": "1.0.45",
-      "appID": "com.karadagi.notes",
+      "version": "1.0.46",
+      "versionDate": "2026-08-27T15:07:28Z",
+      "versionDescription": "Ulak 1.0.46 — latest GitHub Actions build.",
+      "downloadURL": "https://raw.githubusercontent.com/karadagi/ulak-updates/main/Ulak.ipa?version=1.0.46",
+      "size": 1184812,
+      "absoluteVersion": "1.0.46",
+      "appID": "com.karadagi.ulak",
       "versions": [
         {
-          "version": "1.0.45",
-          "date": "2026-08-24T04:43:51Z",
-          "downloadURL": "https://raw.githubusercontent.com/karadagi/ulak-updates/main/Ulak.ipa?version=1.0.45",
-          "localizedDescription": "Ulak 1.0.45 — latest GitHub Actions build.",
-          "size": 1184135,
-          "absoluteVersion": "1.0.45"
+          "version": "1.0.46",
+          "date": "2026-08-27T15:07:28Z",
+          "downloadURL": "https://raw.githubusercontent.com/karadagi/ulak-updates/main/Ulak.ipa?version=1.0.46",
+          "localizedDescription": "Ulak 1.0.46 — latest GitHub Actions build.",
+          "size": 1184812,
+          "absoluteVersion": "1.0.46"
         }
       ]
     }
